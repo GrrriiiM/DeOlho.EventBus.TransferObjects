@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeOlho.EventBus.TransferObjects", "DeOlho.EventBus.TransferObjects\DeOlho.EventBus.TransferObjects.csproj", "{01936B51-46DB-49A0-8430-A389211F26DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{01936B51-46DB-49A0-8430-A389211F26DA}.Release|x64.Build.0 = Release|Any CPU
 		{01936B51-46DB-49A0-8430-A389211F26DA}.Release|x86.ActiveCfg = Release|Any CPU
 		{01936B51-46DB-49A0-8430-A389211F26DA}.Release|x86.Build.0 = Release|Any CPU
+		{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}.Debug|x64.Build.0 = Debug|Any CPU
+		{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}.Debug|x86.Build.0 = Debug|Any CPU
+		{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}.Release|x64.ActiveCfg = Release|Any CPU
+		{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}.Release|x64.Build.0 = Release|Any CPU
+		{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}.Release|x86.ActiveCfg = Release|Any CPU
+		{3BDF8F9A-CFEB-4B6F-BE57-AE7FD52B67EF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
